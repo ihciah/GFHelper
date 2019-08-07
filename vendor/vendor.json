@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "IuGRtjX7IiU+WZm/5sgT57miTxQ=",
+			"path": "github.com/asdine/storm",
+			"revision": "bda68dab90fc908ee5dbccb36400edf4f54972d6",
+			"revisionTime": "2018-04-30T18:00:54Z"
+		},
+		{
+			"checksumSHA1": "+rtBW52NzI65xXbXXFkwJTlKWdk=",
+			"path": "github.com/asdine/storm/codec",
+			"revision": "bda68dab90fc908ee5dbccb36400edf4f54972d6",
+			"revisionTime": "2018-04-30T18:00:54Z"
+		},
+		{
+			"checksumSHA1": "A8GbwKJDa9PXyFcpTULnZ0emx0Q=",
+			"path": "github.com/asdine/storm/codec/json",
+			"revision": "bda68dab90fc908ee5dbccb36400edf4f54972d6",
+			"revisionTime": "2018-04-30T18:00:54Z"
+		},
+		{
+			"checksumSHA1": "+mdiBlESAQsx0g47IFK2eFJU9tI=",
+			"path": "github.com/asdine/storm/index",
+			"revision": "bda68dab90fc908ee5dbccb36400edf4f54972d6",
+			"revisionTime": "2018-04-30T18:00:54Z"
+		},
+		{
+			"checksumSHA1": "gRLR73y3jxyAc0rgWrKw0bqGhXw=",
+			"path": "github.com/asdine/storm/internal",
+			"revision": "bda68dab90fc908ee5dbccb36400edf4f54972d6",
+			"revisionTime": "2018-04-30T18:00:54Z"
+		},
+		{
+			"checksumSHA1": "QgiV+fBJOBc7zwy8dVTWIY30ALw=",
+			"path": "github.com/asdine/storm/q",
+			"revision": "bda68dab90fc908ee5dbccb36400edf4f54972d6",
+			"revisionTime": "2018-04-30T18:00:54Z"
+		},
+		{
+			"checksumSHA1": "C3ErK9PD0BINZJA1cHxPoBu9CcE=",
+			"path": "github.com/coreos/bbolt",
+			"revision": "af9db2027c98c61ecd8e17caa5bd265792b9b9a2",
+			"revisionTime": "2018-03-18T00:15:26Z"
+		},
+		{
+			"checksumSHA1": "G5gw4y5VzqlSXW0JCeRwUHr2kzY=",
+			"path": "github.com/tidwall/gjson",
+			"revision": "3cd3a1192327ac5e24f7e87824be578b0b07c604",
+			"revisionTime": "2018-04-29T15:13:28Z"
+		},
+		{
+			"checksumSHA1": "gEpdu1QrdYgZVliuH3JhGph9TQY=",
+			"path": "github.com/tidwall/match",
+			"revision": "1731857f09b1f38450e2c12409748407822dc6be",
+			"revisionTime": "2017-10-02T07:59:45Z"
+		}
+	],
+	"rootPath": "GFHelper"
+}

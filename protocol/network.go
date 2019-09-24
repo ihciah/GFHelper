@@ -158,7 +158,7 @@ func (r *Requester) RefreshProxy() {
 }
 
 func (r *Requester) ReadRes(method, url string, body io.Reader) ([]byte, error) {
-	req, err := http.NewRequest("POST", url, body)
+	req, err := http.NewRequest(method, url, body)
 	if err != nil {
 		return nil, err
 	}

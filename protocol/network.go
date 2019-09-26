@@ -64,7 +64,7 @@ func (kv *KeyValue) Marshal() string {
 	s = strings.Replace(s, "%2B", "%2b", -1)
 	s = strings.Replace(s, "%3D", "%3d", -1)
 	s = strings.Replace(s, "%2D", "%2d", -1)
-	return fmt.Sprintf("%s=%s", kv.Key, url.QueryEscape(valuestr))
+	return fmt.Sprintf("%s=%s", kv.Key, s)
 }
 
 type OrderedMap struct {
